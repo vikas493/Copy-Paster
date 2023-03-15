@@ -41,7 +41,7 @@ async def clone_medias(bot: Bot, m: Message):
     #
     # Define the clone delay
     if bool(clone_delay):
-        delay = 3
+        delay = 0.1
     else:
         delay = 1
     #
