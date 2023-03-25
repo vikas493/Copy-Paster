@@ -13,7 +13,7 @@ class Config(object):
     TG_BOT_TOKEN = "5603607413:AAF9jqPDuGeMBcdlhxhV6RLyJyGmFGrPaL8"
     APP_ID = 16193102
     API_HASH = "75eadea6904c83b9be6f2114bd45f6ff"
-    TG_USER_SESSION = "AQD3Fk4AqmRPuc_WDHMuNd-QGtpeaQQlksaqK9TC5yM5nJgfuvy8aXji9DfU6UaVZJtqgDPliVNZi_venQBcfFWxiSttm-58oboNtG-remFyB9O5lWPDqGjIN24uyM_xeGiBmi-8sImzdCKiB-KMc2j37hc5UM1CUHBm5-3I8yUaayt_ULTT8kXVR2uc0L9zN_ynIRntRXRifZwvDjrtNjHGAd5Ed1lUUDpOT3vvjfdODaVpeNjHlzcI2Fspz4QT7EtujeZWZDO2Kx2AeuH6ABSAiGDK5QTQl2etfZrWUpjM8LD0GWZ3Xg4XJ1of25I0hqUkZd7GGvKgjhCAqDjgWQKDO7ObjAAAAABqqqKMAA"
+    TG_USER_SESSION = "1AZWarzwBu5Z8TL3oL_UGr8K7JbbYsuhgU36J-RJDy9MQkz2v2Ikkh3GswmyUeCYPGMxO6BSetabisEBnr7Oy3pbwvKvBeK0-MZKC6zZcUKzSIL8D8yPhAvw9_UT0yNI-dTta6r_OA_0Pn_dhtQjsVLXv6K8yoUig1KXRHbQXvClkYt7prQVixLTHIOm42rEiPQTS2T2CciP0CLkolvEHU9nW-847_b6FikbwbyhtgqfKH3BB4CX1V1Vp2SGMwO5QeqkEK5ltWavyFd06nYheL5bjlcNJtprKD-lVxsz2FV802MmzgSiTJzn-QjxSRsJNm2PR-5-Qrj2RZz-2XXFDtm4iC6E8o10="
     DB_URI = "postgres://rkynohls:xHZVYqtUEaLfKqscSHd6ENpb84bHP24g@kashin.db.elephantsql.com/rkynohls"
 
 def LOGGER(name: str) -> logging.Logger:
