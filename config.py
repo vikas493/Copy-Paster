@@ -11,9 +11,9 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 class Config(object):
 
     TG_BOT_TOKEN = "5603607413:AAF9jqPDuGeMBcdlhxhV6RLyJyGmFGrPaL8"
-    APP_ID = 16193102
-    API_HASH = "75eadea6904c83b9be6f2114bd45f6ff"
-    TG_USER_SESSION = "1AZWarzwBu5Z8TL3oL_UGr8K7JbbYsuhgU36J-RJDy9MQkz2v2Ikkh3GswmyUeCYPGMxO6BSetabisEBnr7Oy3pbwvKvBeK0-MZKC6zZcUKzSIL8D8yPhAvw9_UT0yNI-dTta6r_OA_0Pn_dhtQjsVLXv6K8yoUig1KXRHbQXvClkYt7prQVixLTHIOm42rEiPQTS2T2CciP0CLkolvEHU9nW-847_b6FikbwbyhtgqfKH3BB4CX1V1Vp2SGMwO5QeqkEK5ltWavyFd06nYheL5bjlcNJtprKD-lVxsz2FV802MmzgSiTJzn-QjxSRsJNm2PR-5-Qrj2RZz-2XXFDtm4iC6E8o10="
+    APP_ID = 7664661
+    API_HASH = "9917a213ffbf087c7d98955bef592e75"
+    TG_USER_SESSION = "AQB09BUAgbbVoR1QdPFpnYWuakcX6u-FnT69sNF4FmcWAjxh5lefKLu0Bi9seYqAq145dgA8dL27zhVUNTwrhBfTymHXjA4s-PeP6QweoGVmgU6SXz3RMV1ppI_NJppyOohEk0zc2lWIL7fmRYlTY1Rka7GMMo2qqEp0M_UA6PI7Wa6hrNpZScKouOqKhJqwGa9AA3LVgMdqgyvNQNykvn_uLVHzEtrL80F5ovxi6W0uq0gQBNJLt-cRUSCVXToz0KuHhx3FfeJtYbtmuJH0tQQzSKt1pZ5qRtZyx5Ku-7N3LxM66qx-STHWng9KaF5NOzXIjkZViejtOJVRS2_uFYMdZGAQ9gAAAABrBYsvAA"
     DB_URI = "postgres://rkynohls:xHZVYqtUEaLfKqscSHd6ENpb84bHP24g@kashin.db.elephantsql.com/rkynohls"
 
 def LOGGER(name: str) -> logging.Logger:
